@@ -1,0 +1,48 @@
+header{
+	margin: 0 auto;
+	background-color: grey;
+	height: 40px;
+	width: 60%;
+	padding-top: 20px;
+}
+header>span:nth-child(1){
+	margin-left: 20px;
+	color:white;
+}
+header>span:nth-child(2){
+	color:white;
+}
+
+header>span{
+	padding: 0 10px 10px 10px;
+}
+
+body>div{
+	margin: 0 auto;
+	height:430px;
+	width: 60%;
+}
+
+
+div>div:nth-child(1){
+	width: 30%;
+	float:left;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+
+div>div:nth-child(2){
+	float:right;
+	width: 30%;
+	margin-right: 10%;
+	margin-top: 20px;
+}
+
+
+footer{
+	margin: 0 auto;
+	background-color: grey;
+	height: 40px;
+	width: 60%;
+	text-align: center;
+}
